@@ -6,7 +6,7 @@
 [Red Hat Enterprise Linux 9 Security Hardening](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/pdf/security_hardening/red_hat_enterprise_linux-9-security_hardening-en-us.pdf) - PDF
 
 ### Advisories
-- [Notifications and Advisories](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/pdf/security_hardening/red_hat_enterprise_linux-9-security_hardening-en-us.pdf
+- [Notifications and Advisories](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/pdf/security_hardening/red_hat_enterprise_linux-9-security_hardening-en-us.pdf)
 - [Product Security Center](https://access.redhat.com/security/)
 - [Security Advisories](https://access.redhat.com/security/security-updates/security-advisories)
 - [Red Hat CVE Database](https://access.redhat.com/security/security-updates/cve)
