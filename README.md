@@ -1,5 +1,8 @@
 # Red Hat Enterprise Linux: Security
 
+[Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)  
+[Table of Contents - Red Hat Enterprise Linux](https://github.com/pslucas0212/Red-Hat-Enterprise-Linux-Table-of-Contents)
+
 ### Security Hardening Guides
 - [Red Hat Enterprise Linux 7 Security Guide](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/pdf/security_guide/security-guide.pdf) - PDF
 - [Red Hat Enterprise Linux 8 Security Hardening](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/pdf/security_hardening/red_hat_enterprise_linux-8-security_hardening-en-us.pdf) - PDF
