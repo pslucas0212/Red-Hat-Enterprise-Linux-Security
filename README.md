@@ -1,9 +1,9 @@
 # Red Hat Enterprise Linux: Security
 
 ### Security Hardening Guides
-[Red Hat Enterprise Linux 7 Security Guide](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/pdf/security_guide/security-guide.pdf) - PDF
-[Red Hat Enterprise Linux 8 Security Hardening](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/pdf/security_hardening/red_hat_enterprise_linux-8-security_hardening-en-us.pdf) - PDF
-[Red Hat Enterprise Linux 9 Security Hardening](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/pdf/security_hardening/red_hat_enterprise_linux-9-security_hardening-en-us.pdf) - PDF
+- [Red Hat Enterprise Linux 7 Security Guide](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/pdf/security_guide/security-guide.pdf) - PDF
+- [Red Hat Enterprise Linux 8 Security Hardening](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/pdf/security_hardening/red_hat_enterprise_linux-8-security_hardening-en-us.pdf) - PDF
+- [Red Hat Enterprise Linux 9 Security Hardening](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/pdf/security_hardening/red_hat_enterprise_linux-9-security_hardening-en-us.pdf) - PDF
 
 ### Advisories
 - [Notifications and Advisories](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/pdf/security_hardening/red_hat_enterprise_linux-9-security_hardening-en-us.pdf)
