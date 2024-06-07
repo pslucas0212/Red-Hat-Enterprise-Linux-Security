@@ -13,4 +13,4 @@
 - [Security Labs](https://access.redhat.com/security/security-updates/security-labs)
 
 ### Other
-- [https://access.redhat.com/sites/default/files/pages/attachments/an_open_approach_to_vulnerability_management_v1.5.pdf](https://access.redhat.com/sites/default/files/pages/attachments/an_open_approach_to_vulnerability_management_v1.5.pdf)
+- An Open Approach to Vulnerability Management - Red Hat’s Methodology](https://access.redhat.com/sites/default/files/pages/attachments/an_open_approach_to_vulnerability_management_v1.5.pdf)
