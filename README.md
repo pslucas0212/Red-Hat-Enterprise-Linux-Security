@@ -15,5 +15,6 @@
 - [Red Hat CVE Database](https://access.redhat.com/security/security-updates/cve)
 - [Security Labs](https://access.redhat.com/security/security-updates/security-labs)
 
-### Other
+### Other Security Related Articles
 - [An Open Approach to Vulnerability Management - Red Hat’s Methodology](https://access.redhat.com/sites/default/files/pages/attachments/an_open_approach_to_vulnerability_management_v1.5.pdf)
+- [Automating fapolicyd with RHEL system roles](https://www.redhat.com/en/blog/automating-fapolicyd-rhel-system-roles#:~:text=Fapolicyd%20is%20a%20security%2Dfocused,executed%20on%20a%20RHEL%20system)
