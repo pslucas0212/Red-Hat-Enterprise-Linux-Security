@@ -18,3 +18,9 @@
 ### Other Security Related Articles
 - [An Open Approach to Vulnerability Management - Red Hat’s Methodology](https://access.redhat.com/sites/default/files/pages/attachments/an_open_approach_to_vulnerability_management_v1.5.pdf)
 - [Automating fapolicyd with RHEL system roles](https://www.redhat.com/en/blog/automating-fapolicyd-rhel-system-roles#:~:text=Fapolicyd%20is%20a%20security%2Dfocused,executed%20on%20a%20RHEL%20system)
+- [Configure Linux system auditing with auditd](https://www.redhat.com/en/blog/configure-linux-auditing-auditd)
+
+### Crptography
+- [System-wide cryptographic policies in RHEL](https://access.redhat.com/articles/3666211)
+- [Configuring RHEL 8 for compliance with crypto-policy related to Cipher Block Chaining](https://www.redhat.com/en/blog/configuring-rhel-8-compliance-crypto-policy-related-cipher-block-chaining)
+- [AD-SUPPORT subpolicy in RHEL 8 and AD-SUPPORT-LEGACY subpolicy in RHEL 9](https://access.redhat.com/solutions/7004158)
